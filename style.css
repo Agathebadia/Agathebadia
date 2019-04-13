@@ -1,0 +1,88 @@
+body{
+	font-family: 'Oswald', serif;
+	text-align: center;
+	background-color: #CBF3F0
+
+}
+h1, h2 {
+	font-family: 'Source Sans Pro', sans-serif
+	font-size: 20px;
+	color: black;
+	background-image: url("https://images.pexels.com/photos/1864189/pexels-photo-1864189.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+	border-radius: 5px;
+	padding: 5px 5px;
+	border: 5px 5px 5px;
+	width: 200px;
+	height: 40px;
+
+}
+
+title {
+	font-size: 60px;
+	font-family: 'Oswald', serif;
+}
+
+a {
+	text-decoration: none;
+	color:black;
+}
+
+a:hover {
+	opacity: 0.4
+}
+
+p {
+	font-size: 15px;
+}
+
+#banner {
+	background-image: url("https://images.pexels.com/photos/1864189/pexels-photo-1864189.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+	background-size: cover;
+	padding: 40px 10px;
+	box-shadow: 5px 5px 7px;
+	border-radius: 10px;
+	padding: 5px;
+}
+
+.button a{
+background-image: url("https://images.pexels.com/photos/1864189/pexels-photo-1864189.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+box-shadow: 5px 5px 7px;
+border-radius: 25px;
+margin: 5px 5px 5px;
+height: 50;
+
+}
+
+#join {
+width: 100px;
+height: 50px;
+
+text-align: center;
+background-image: url("https://images.pexels.com/photos/1864189/pexels-photo-1864189.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+border-radius: 25px;
+
+}
+
+#Experience {
+	text-align: center;
+	background-image: url("https://images.pexels.com/photos/304664/pexels-photo-304664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940");
+	border: 2px;
+	width: 300px;
+	padding: 10px;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px;
+
+}
+
+#Creativity {
+	text-align: center;
+}
+
+#Contact {
+border: 2px;
+text-align: center
+}
+
+.card {
+text-align: center;
+}
