@@ -4,4 +4,4 @@ I'm a Junior Frontend Developer - Former Tech Recruiter
 
 🧠 ✨ Learning A11y, Ember, JavaScript
 
-💪 🎇 Skilled in Tech Awareness, Tech Recruiting, Communication & Organisation, Team Building, Content Creation
+💪 🎇  Skilled in Tech Awareness, Tech Recruiting, Communication & Organisation, Team Building, Content Creation
