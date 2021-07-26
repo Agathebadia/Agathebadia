@@ -7,7 +7,7 @@ I'm a Junior Frontend Developer - Former Tech Recruiter
 💪 🎇  Skilled in Tech Awareness ✨ Tech Recruiting ✨ Communication & Organisation ✨ Team Building ✨ Content Creation w/ Content writing & Audio Podcast ✨
 
 Social links:
--  ⌨️ <a href='agathe.codes'> Portfolio & Content Creation</a>
+-  ⌨️ <a href='https://agathe.codes'> Portfolio & Content Creation</a>
 -  🤝 <a href='https://www.linkedin.com/in/agathe-badia/'> LinkedIn</a>
 - 👁️ <a href='https://colorblindness-emulator.netlify.app/'>Colorblindness Emulator</a>
 - 🖊️ <a href='https://inclusive-blog-post.netlify.app/'> Inclusive Blog Post</a>
