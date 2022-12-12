@@ -1,6 +1,6 @@
 # Hi, I'm Agathe 👩‍💻
 
-I'm a Junior Frontend Developer - Former Tech Recruiter
+I'm a Frontend Developer - Former Tech Recruiter
 
 🧠 ✨ Learning A11y, Ember, JavaScript
 
