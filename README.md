@@ -4,7 +4,7 @@ I'm a Frontend Developer - Former Tech Recruiter
 
 🧠 ✨ Ember, JavaScript, TypeScript, A11y ✨
 
-Currently working on: <a href='https://github.com/Agathebadia/bildungsurlaub'>Bildungurlaub documentation</a> - Educational leave in Germany 🇩🇪
+Currently working on <a href='https://github.com/Agathebadia/bildungsurlaub'>Bildungurlaub documentation</a> - Educational leave in Germany 🇩🇪
 
 Helped translating <a href='https://github.com/DazzlingFugu/ember-fr-guides-source'>Ember Guides to French with the Ember community</a> 🐹🇫🇷
 
